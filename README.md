@@ -12,12 +12,12 @@ CREDITS
 
 In addition to my code, the source includes:
 
-    Graphics based heavily from the original by .GEARS studio
-    Music originally written by Maxo, https://maxoisnuts.bandcamp.com/track/george-pt-2
-    Protracker player routines and Sam Coupe Diskimage manager by Andrew Collier
-    Keyboard reading and redefine routines adapted from an original by Steve Taylor
-    Various maths routines written/collated by Milos Bazelides
-    SAMDOS2 binary, needed for loading of object file from the compiled diskimage.
+*   Graphics based heavily from the original by .GEARS studio
+*   Music originally written by Maxo, https://maxoisnuts.bandcamp.com/track/george-pt-2
+*   Protracker player routines and Sam Coupe Diskimage manager by Andrew Collier
+*   Keyboard reading and redefine routines adapted from an original by Steve Taylor
+*   Various maths routines written/collated by Milos Bazelides
+*   SAMDOS2 binary, needed for loading of object file from the compiled diskimage.
 
 COMPILING AND PLAYING
 

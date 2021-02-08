@@ -1,7 +1,10 @@
 # Root ignores:
 /backups
 /published versions
-/SimCoupe saved images
+SimCoupe saved images.lnk
+desktop.ini
+.gitattributes
+.gitignore
 
 
 # FB main source:
@@ -11,4 +14,4 @@
 
 
 # music folder
-/FB main source/music/protracker - Shortcut
+/FB main source/music/Protracker - Shortcut.lnk
