@@ -1,0 +1,14 @@
+# Root ignores:
+/backups
+/published versions
+/SimCoupe saved images
+
+
+# FB main source:
+/FB main source/make_samsung.bat
+/FB main source/symbol.txt
+/FB main source/auto.dsk
+
+
+# music folder
+/FB main source/music/protracker - Shortcut

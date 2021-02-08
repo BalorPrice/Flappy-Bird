@@ -1,0 +1,1 @@
+These files created with XPMtoGRAB.xls program in resources directory.  It's pretty badly hacked together I'm afraid.
